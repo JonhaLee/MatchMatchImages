@@ -1,20 +1,18 @@
 {
   "version" : "0.1",
   "cardpackageNumber" : "2",
-  "representationImages" : { 
-   "representationImage" : [
-      {
-        "cardpackageNumber" : "1",
-        "cardpackageName" :"CardPackage_Alphabet",
-        "image" : "https://github.com/nairoon/MatchMatchImages/blob/master/Representation_Images/CardPackage_Alphabet_Representation.png?raw=true"
-      },
-      {
-        "cardpackageNumber" : "2",
-        "cardpackageName" :"CardPackage_Number",
-        "image" : "https://github.com/nairoon/MatchMatchImages/blob/master/Representation_Images/CardPackage_Number_Representation.png?raw=true"
-      }
-    ]
-  },
+  "representationImages" : [
+    {
+      "cardpackageNumber" : "1",
+      "cardpackageName" :"CardPackage_Alphabet",
+      "image" : "https://github.com/nairoon/MatchMatchImages/blob/master/Representation_Images/CardPackage_Alphabet_Representation.png?raw=true"
+    },
+    {
+      "cardpackageNumber" : "2",
+      "cardpackageName" :"CardPackage_Number",
+      "image" : "https://github.com/nairoon/MatchMatchImages/blob/master/Representation_Images/CardPackage_Number_Representation.png?raw=true"
+    }
+  ],
   "fileURLs" : [
     {
       "cardpackageNumber" : "1",
