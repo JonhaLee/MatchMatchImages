@@ -1,18 +1,6 @@
 {
   "version" : "0.1",
   "cardpackageNumber" : "2",
-  "representationImages" : [
-    {
-      "cardpackageNumber" : "1",
-      "cardpackageName" : "Alphabet",
-      "image" : "https://github.com/nairoon/MatchMatchImages/blob/master/Representation_Images/CardPackage_Alphabet_Representation.png?raw=true"
-    },
-    {
-      "cardpackageNumber" : "2",
-      "cardpackageName" : "Number",
-      "image" : "https://github.com/nairoon/MatchMatchImages/blob/master/Representation_Images/CardPackage_Number_Representation.png?raw=true"
-    }
-  ],
   "fileURLs" : [
     {
       "cardpackageNumber" : "1",
