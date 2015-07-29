@@ -17,12 +17,12 @@
     {
       "cardpackageNumber" : "1",
       "cardpackageName" : "CardPackage_Alphabet",
-      "url" : "https://github.com/nairoon/MatchMatchImages/blob/master/CardPackageFiles/CardPackage_Alphabet.zip?raw=true"
+      "url" : "https://github.com/nairoon/MatchMatchImages/blob/master/CardPackageFiles/Alphabet.zip?raw=true"
     },
     {
       "cardpackageNumber" : "2",
       "cardpackageName" : "CardPackage_Number",
-      "url" : "https://github.com/nairoon/MatchMatchImages/blob/master/CardPackageFiles/CardPackage_Number.zip?raw=true"
+      "url" : "https://github.com/nairoon/MatchMatchImages/blob/master/CardPackageFiles/Number.zip?raw=true"
     }
   ]
 }
